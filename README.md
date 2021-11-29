@@ -1,2 +1,7 @@
 # Insights-from-Data-with-BigQuery
-Queries made on this Qwiklabs laboratory
+
+## 💻 Project Description
+The project's objective is to store BigQuery queries used on Qwiklabs laboratory.
+
+## 👪 Author
+- Renan Dias
