@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RenanDias12/Insights-from-Data-with-BigQuery?color=%2304D361">
+</p>
+
 # Insights-from-Data-with-BigQuery
 
 ## 💻 Project Description
